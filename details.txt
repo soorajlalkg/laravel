@@ -1,0 +1,31 @@
+
+
+controllers 
+ homecontroller.php
+ signincontroller.php(signin,signout,forgotpswd,changepswd)
+ signupcontroller.php
+ contactcontroller.php
+ pagescontroller.php
+ accountcontroller.php
+ admin/admincontroller.php(signin,signout,forgot)
+ admin/dashboardcontroller.php (profile, change pswd)
+ admin/customercontroller.php (customer add,edit, delete)
+
+views
+ signin/...
+ signup/...
+ account/...
+ account/...
+ admin/customer/...
+ admin/customer/...
+ 
+ 
+ insert, update, delete
+ pagination
+register, login , forgot, change pswd
+pagination
+upload file
+search
+remove index.php
+layouts
+
